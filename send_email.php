@@ -6,8 +6,8 @@ $humidity= $_GET["Humidity"];
 
 $text ="Temperature: {$temperature} C Humidity: {$humidity} %";
 
-$admin_email 	= "youremail@something.com";
-$email 	= "youremail@something.com";
+$admin_email 	= "biginsam0011@gmail.com";
+$email 	= "biginsam0011@gmail.com";
 $subject ="Temperature and Humidity Report";
 
 
